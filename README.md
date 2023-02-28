@@ -4,7 +4,7 @@ This project was a data exploration and visualization of the 2023 layoffs in Uni
 
 Kaggle, from AKHIL: https://www.kaggle.com/datasets/theakhilb/layoffs-data-2022
 
-* Dataset contains examples from layoffs from 2020 - 2023
+* Dataset contains examples from 2020 - 2023
 * Dataset contains examples from multiple countries
 * Dataset excludes relevant examples (Ex. Layoffs from Meta)
 
