@@ -23,7 +23,7 @@ pip install seaborn
 * Overall, US layoffs represent 77.42% of dataset (indluding all years and countries)
 
 # Layoffs by Company
-<img src="layoffs_by_company.png" width="1000"> 
+<img src="layoffs_by_company.png" width="500"> 
 
 # Layoffs by Industry
-<img src="layoffs_by_industry.png" width="1000"> 
+<img src="layoffs_by_industry.png" width="500"> 
