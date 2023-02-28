@@ -17,8 +17,8 @@ pip install seaborn
 ```
 
 ## Relevant Insights
-* Google, Microsoft, Sales Force, and Aamazon represent 51.37% of total layoffs, accorading to dataset.
-* The consumer and hardware industries represent 33.42% of total layoffs, accoarding to the dataset.
+* Google, Microsoft, Sales Force, and Aamazon represent 51.37% of total layoffs, according to dataset.
+* The consumer and hardware industries represent 33.42% of total layoffs, according to the dataset.
 * Overall, 2023 layoffs represent 27.13% of dataset (indluding all years and countries)
 * Overall, US layoffs represent 77.42% of dataset (indluding all years and countries)
 
