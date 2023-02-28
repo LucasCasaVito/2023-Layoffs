@@ -5,6 +5,7 @@ This project was a data exploration and visualization of the 2023 layoffs in Uni
 Kaggle, from AKHIL: https://www.kaggle.com/datasets/theakhilb/layoffs-data-2022
 
 * Dataset contains examples from layoffs from 2020 - 2023
+* Dataset contains examples from multiple countries
 * Dataset excludes relevant examples (Ex. Layoffs from Meta)
 
 ## Main libraries
@@ -22,7 +23,7 @@ pip install seaborn
 * Overall, US layoffs represent 77.42% of dataset (indluding all years and countries)
 
 # Layoffs by Company
-<img src="img/layoffs_by_company.png" width="1000"> 
+<img src="layoffs_by_company.png" width="1000"> 
 
 # Layoffs by Industry
-<img src="img/layoffs_by_industry.png" width="1000"> 
+<img src="layoffs_by_industry.png" width="1000"> 
